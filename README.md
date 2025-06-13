@@ -87,7 +87,6 @@
     </style>
 </head>
 <body>
-
 <header>
     <h1>Kehinde Omokanye</h1>
     <p>Web Developer | UI/UX Designer</p>
