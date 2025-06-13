@@ -9,8 +9,8 @@
         body {
             margin: 0;
             font-family: 'Segoe UI', sans-serif;
-          color: #fff;
-          background-color:#111;
+            background-color: #111;
+            color: #fff;
         }
 
         header {
@@ -87,6 +87,7 @@
     </style>
 </head>
 <body>
+
 <header>
     <h1>Kehinde Omokanye</h1>
     <p>Web Developer | UI/UX Designer</p>
@@ -149,4 +150,4 @@
 </script>
 <a href="https://github.com/Kenny4sure/repo.git">GitHub</a>
 </body>
-</html
+</html>    
