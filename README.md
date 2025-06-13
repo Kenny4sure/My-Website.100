@@ -100,10 +100,10 @@
                     <ul class= "nav-links">                        <li><a href="dex.html">About</a></li>
                         </div>
                         <div>
-                        <li><a href="Project 1.html">Project 1</a></li>
+                        <li><a href="Project 1.html.docx">Project 1</a></li>
                         </div>
                         <div>
-                        <li><a href="Portfolio II.html">Project 2 </a></li>
+                        <li><a href="Portfolio II.html.docx">Project 2 </a></li>
                         </div>  
 <section id="contact">
     <h2>Contact Me</h2>
