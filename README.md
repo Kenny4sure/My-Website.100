@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -87,12 +87,10 @@
     </style>
 </head>
 <body>
-
 <header>
     <h1>Kehinde Omokanye</h1>
     <p>Web Developer | UI/UX Designer</p>
 </header>
-
 <section id="about">
     <h2>About Me</h2>
     <p>I am Kehinde Omokanye, a creative Web Developer and UI/UX Designer with a passion for building stunning digital experiences.</p>
@@ -106,7 +104,7 @@
                         </div>
                         <div>
                         <li><a href="Portfolio II.html">Project 2 </a></li>
-                        </div>          
+                        </div>  
 <section id="contact">
     <h2>Contact Me</h2>
     <form id="contactForm">
